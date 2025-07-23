@@ -62,10 +62,4 @@ Delivered a calculated **stock turnover rate of 18,180**, helping decision-maker
 
 In fast-paced supply chain environments , keeping the right stock at the right time is mission-critical. This project shows how demand can be accurately forecasted and inventory optimised **using tools already available to most teams**. It bridges the gap between data science and operational execution.
 
----
 
-## ✅ Ideal For
-
-- Forecast Analyst, Inventory Planner, or Supply Chain Graduate applicants
-- Demonstrating business-ready data analysis in Excel
-- Showcasing ability to turn raw data into insights and actions
